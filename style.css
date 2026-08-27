@@ -1,0 +1,11 @@
+body {
+    background-image: url("fond_d_ecran_ldc_psg.jpg");
+    background-size: cover;
+    background-position: center bottom;
+    background-attachment: fixed;
+    color: white;
+}
+
+a {
+    color: yellow;
+}
